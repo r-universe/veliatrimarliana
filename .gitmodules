@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "saeHB.panel"]
+	path = saeHB.panel
+	url = https://github.com/veliatrimarliana/saehb.panel
+	shallow = true
+	registered = true
